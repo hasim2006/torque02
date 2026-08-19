@@ -13,4 +13,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hasim2006/torque02/tree/master/0001-two-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/hasim2006/torque02/tree/master/3471-find-the-largest-almost-missing-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/hasim2006/torque02/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/hasim2006/torque02/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/hasim2006/torque02/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/hasim2006/torque02/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
